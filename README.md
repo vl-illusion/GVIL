@@ -29,3 +29,14 @@ python eval.py \
     --vqa_predictions predictions/vqa__ofa_large.json \
     --vg_predictions predictions/vg__ofa_large.json
 ```
+
+# Citation
+```bibtex
+@inproceedings{zhang2023grounding,
+    title={Grounding Visual Illusions in Language: Do Vision-Language Models Perceive Illusions Like Humans?},
+    author={Zhang, Yichi and Pan, Jiayi and Zhou, Yuchen and Pan, Rui and Chai, Joyce},
+    booktitle={Proceedings of Conference of Empirical Methods in Natural Language Processing},
+    year={2023},
+    organization={EMNLP 2023}
+}
+```
