@@ -1,4 +1,4 @@
-# illusion-dataset
+# (GVIL) - Visual Illusion Dataset
 - [Check out project homepage](https://vl-illusion.github.io/)
 - [Check out the full paper](https://arxiv.org/abs/2311.00047)
 
